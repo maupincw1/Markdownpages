@@ -1,0 +1,45 @@
+# PC Building
+
+Building a PC is one of the most useful hobbies I’ve picked up, especially since I game and might use my setup for school or work-from-home later.
+
+This page breaks down basics and a sample build.
+
+---
+
+## Why Build a PC?
+- Better performance than prebuilt  
+- Customize exactly what you need  
+- Easier to upgrade  
+- Much more cost-efficient  
+
+---
+
+## Important Components
+
+### **CPU**
+Handles all core processing.  
+A good mid-range option: **Ryzen 5 / Intel i5**
+
+### **GPU**
+The most important part for gaming.  
+Examples:  
+- RTX 4060  
+- RTX 4070  
+- Radeon 7800 XT  
+
+### **RAM**
+You asked about this recently — for gaming and coding:
+- **16 GB minimum**
+- **32 GB recommended**
+
+---
+
+## Example Budget Gaming Build
+
+```plaintext
+CPU: Ryzen 5 5600  
+GPU: RTX 4060  
+RAM: 32 GB DDR4  
+Storage: 1 TB NVMe SSD  
+PSU: 650W  
+Case: Mid Tower  
